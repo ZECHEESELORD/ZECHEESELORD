@@ -1,5 +1,4 @@
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=ZECHEESELORD&show_icons=true&theme=dark)
-![img](https://cdn.discordapp.com/avatars/384849797674172416/253c70595cb1be5241803d0cfe9163ae.png)
 # Hi there! 
 
 
