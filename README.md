@@ -1,12 +1,13 @@
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=ZECHEESELORD&show_icons=true&theme=dark)
 # Hi there! 
 
+* 📫Come chat with me in my discord [development server!](https://discord.gg/f4FnsDphde)
+* 📫Alternatively, you can shoot me a dm at: ```@Harold#1111``` 
 
-You can find me on discord at: ```@Harold#1111``` 
 
 ## Things I love to do:
 
-In my spare time, I enjoy chatting on discord, helping develop upcoming minecraft servers.
+*🌱 In my spare time, I enjoy chatting on discord, helping develop upcoming minecraft servers.
 
 ## Notable Achievements:
 
@@ -14,6 +15,7 @@ In my spare time, I enjoy chatting on discord, helping develop upcoming minecraf
 * SysAdmin at Stem of Tomorrow, a non profit to help teach programming
 * Senior Administrator + Game Developer at ZenithPvP, a minecraft factions server with over 240 players on release
 * Operations and Game developer at WarrantCraft, a minecraft network.
+* Freelancer at GalacticNode, where I specialize in Server setups, System Administration and discord bot development!
 
 ## About me:
 * I love to eat cheese
@@ -27,7 +29,7 @@ In my spare time, I enjoy chatting on discord, helping develop upcoming minecraf
 * discord.py
 * php (oof)
 
-##
+## 
 
 
 <!--
