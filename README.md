@@ -1,11 +1,11 @@
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=ZECHEESELORD&show_icons=true&theme=dark)
-# Hi there! 
+# 📫 Hi there! 
 
-* 📫Come chat with me in my discord [development server!](https://discord.gg/f4FnsDphde)
-* 📫Alternatively, you can shoot me a dm at: ```@Harold#1111``` 
+* 📫 Come chat with me in my discord [development server!](https://discord.gg/f4FnsDphde)
+* 📫 Alternatively, you can shoot me a dm at: ```@Harold#1111``` 
 
 
-## Things I love to do:
+## 🌱 Things I love to do:
 
 * 🌱 In my spare time, I enjoy chatting on discord, helping develop upcoming minecraft servers.
 
@@ -19,16 +19,17 @@
 
 ## About me:
 * I love to eat cheese
-* I'm learning JS right now
+* I am learning Node.JS through creating discord bots!
 * I *tried* to learn php o_o
-* I live in Canada
-* I love noodles
+* I live in a cold country called Canada!
+* A nice hot bowl of noodles will always make me happy!
 
 ## I'm currently learning:
 * discord.js
 * discord.py
 * php (oof)
 * C
+* How to be a good friend
 
 ## 
 
