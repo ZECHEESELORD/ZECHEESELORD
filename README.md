@@ -28,6 +28,7 @@
 * discord.js
 * discord.py
 * php (oof)
+* C
 
 ## 
 
