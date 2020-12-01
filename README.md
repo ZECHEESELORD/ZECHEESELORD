@@ -7,7 +7,7 @@
 
 ## Things I love to do:
 
-*🌱 In my spare time, I enjoy chatting on discord, helping develop upcoming minecraft servers.
+* 🌱 In my spare time, I enjoy chatting on discord, helping develop upcoming minecraft servers.
 
 ## Notable Achievements:
 
