@@ -1,35 +1,35 @@
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=ZECHEESELORD&show_icons=true&theme=dark)
 # 📫 Hi there! 
 
-* 📫 Come chat with me in my discord [development server!](https://discord.gg/f4FnsDphde)
-* 📫 Alternatively, you can shoot me a dm at: ```@Harold#1111``` 
+* Come chat with me in my discord [development server!](https://discord.gg/f4FnsDphde)
+* Alternatively, you can shoot me a dm at: ```@Harold#1111``` 
 
 
 ## 🌱 Things I love to do:
 
-* 🌱 In my spare time, I enjoy chatting on discord, helping develop upcoming minecraft servers.
+* In my spare time, I enjoy chatting on discord, helping develop upcoming minecraft servers.
 
 ## 🥇 Notable Achievements:
 
-* 🥇 Community Support Staff at [PloxHost](https://plox.host/), a cheap and reliable hosting provider
-* 🥇 SysAdmin at Stem of Tomorrow, a non profit to help teach programming
-* 🥇 Senior Administrator + Game Developer at ZenithPvP, a minecraft factions server with over 240 players on release
-* 🥇 Operations and Game developer at WarrantCraft, a minecraft network.
-* 🥇 Freelancer at GalacticNode, where I specialize in Server setups, System Administration and discord bot development!
+* Community Support Staff at [PloxHost](https://plox.host/), a cheap and reliable hosting provider
+* SysAdmin at Stem of Tomorrow, a non profit to help teach programming
+* Senior Administrator + Game Developer at ZenithPvP, a minecraft factions server with over 240 players on release
+* Operations and Game developer at WarrantCraft, a minecraft network.
+* Freelancer at GalacticNode, where I specialize in Server setups, System Administration and discord bot development!
 
 ## 📚 About me:
-* 📚 I love to eat cheese
-* 📚 I am learning Node.JS through creating discord bots!
-* 📚 I *tried* to learn php o_o
-* 📚 I live in a cold country called Canada!
-* 📚 A nice hot bowl of noodles will always make me happy!
+* I love to eat cheese
+* I am learning Node.JS through creating discord bots!
+* I *tried* to learn php o_o
+* I live in a cold country called Canada!
+* A nice hot bowl of noodles will always make me happy!
 
 ## 🎒 I'm currently learning:
-* 🎒 discord.js
-* 🎒 discord.py
-* 🎒php (oof)
-* 🎒 C
-* 💖 How to be a good friend
+* discord.js
+* discord.py
+* php (oof)
+* C
+* How to be a good friend 💖
 
 ## 
 
