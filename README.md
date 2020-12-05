@@ -33,7 +33,9 @@
 * How to be a good friend 💖
 * Cheesemaking!
 
-## 
+## I'm currently working on:
+* My discord bot: boogiebot, who is a multipurpose bot used by over 5k people!
+* My home datacenter, which will help me reduce costs of hosting.
 
 
 <!--
