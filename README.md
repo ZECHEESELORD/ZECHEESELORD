@@ -24,12 +24,14 @@
 * I live in a cold country called Canada!
 * A nice hot bowl of noodles will always make me happy!
 
+
 ## 🎒 I'm currently learning:
 * discord.js
 * discord.py
 * php (oof)
 * C
 * How to be a good friend 💖
+* Cheesemaking!
 
 ## 
 
