@@ -16,6 +16,7 @@
 * Senior Administrator + Game Developer at ZenithPvP, a minecraft factions server with over 240 players on release
 * Operations and Game developer at WarrantCraft, a minecraft network.
 * Freelancer at GalacticNode, where I specialize in Server setups, System Administration and discord bot development!
+* Developer at Plagueware.
 
 ## 📚 About me:
 * I love to eat cheese
@@ -36,6 +37,9 @@
 ## I'm currently working on:
 * My discord bot: boogiebot, who is a multipurpose bot used by over 5k people!
 * My home datacenter, which will help me reduce costs of hosting.
+
+## Heres a fun fact!
+* Close to becoming a verified bot developer on discord :)
 
 
 <!--
