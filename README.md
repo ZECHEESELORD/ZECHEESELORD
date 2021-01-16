@@ -19,27 +19,21 @@
 * Developer at Plagueware.
 
 ## 📚 About me:
-* I love to eat cheese
-* I am learning Node.JS through creating discord bots!
-* I *tried* to learn php o_o
-* I live in a cold country called Canada!
-* A nice hot bowl of noodles will always make me happy!
-
+* I enjoy programming. Every. Hecking. Day
+* Cheese is a delicious snack in any shape or form
+* You can also check my website out [here!](https://zecheeselord.github.io/)
 
 ## 🎒 I'm currently learning:
 * discord.js
 * discord.py
 * php (oof)
 * C
-* How to be a good friend 💖
-* Cheesemaking!
+
 
 ## I'm currently working on:
 * My discord bot: boogiebot, who is a multipurpose bot used by over 5k people!
-* My home datacenter, which will help me reduce costs of hosting.
 
-## Heres a fun fact!
-* Close to becoming a verified bot developer on discord :)
+
 
 
 <!--
