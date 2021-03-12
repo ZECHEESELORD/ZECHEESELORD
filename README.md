@@ -1,7 +1,7 @@
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=ZECHEESELORD&show_icons=true&theme=dark)
 # 📫 Hi there! 
 
-https://img.shields.io/badge/Cheese-is%20Yummy!-yellow?style=for-the-badge
+![Cheez](https://img.shields.io/badge/Cheese-is%20Yummy!-yellow?style=for-the-badge)
 
 * Come chat with me in my discord [development server!](https://discord.gg/f4FnsDphde)
 * Alternatively, you can shoot me a dm at: ```@Harold#1111``` 
