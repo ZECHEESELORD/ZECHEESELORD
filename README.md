@@ -24,9 +24,9 @@
 * You can also check my website out [here!](https://ZECHEESELORD.xyz/)
 
 ## 🎒 I'm currently learning:
-* discord.js
-* php (oof)
-* C
+* <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+* <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+* <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 
 
 ## I'm currently working on:
