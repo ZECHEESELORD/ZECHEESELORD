@@ -13,27 +13,27 @@
 
 * Community Support Staff at [PloxHost](https://plox.host/), a cheap and reliable hosting provider
 * SysAdmin at Stem of Tomorrow, a non profit to help teach programming
-* Senior Administrator + Game Developer at ZenithPvP, a minecraft factions server with over 240 players on release
-* Operations and Game developer at WarrantCraft, a minecraft network.
+* General Manager + Game Developer at Armies, a minecraft dirt-only SMP server with over 240 players on release
 * Freelancer at GalacticNode, where I specialize in Server setups, System Administration and discord bot development!
 * Developer at Plagueware.
+* Verified Discord Bot Developer!
 
 ## 📚 About me:
 * I enjoy programming. Every. Hecking. Day
 * Cheese is a delicious snack in any shape or form
-* You can also check my website out [here!](https://zecheeselord.github.io/)
+* You can also check my website out [here!](https://ZECHEESELORD.xyz/)
 
 ## 🎒 I'm currently learning:
 * discord.js
-* discord.py
 * php (oof)
 * C
 
 
 ## I'm currently working on:
-* My discord bot: boogiebot, who is a multipurpose bot used by over 5k people!
+* My discord bot: boogiebot, who is a multipurpose bot used by over 23k people across 132 servers!
 
-
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 <!--
