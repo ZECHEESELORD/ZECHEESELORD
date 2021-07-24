@@ -37,7 +37,7 @@
 * <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 
 ## I'm currently working on:
-* My discord bot: boogiebot, who is a multipurpose bot used by over 23k people across 132 servers!
+* My discord bot: boogiebot, who is a multipurpose bot used by over 50k people across 100 servers!
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
