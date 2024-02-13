@@ -1,8 +1,6 @@
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=ZECHEESELORD&show_icons=true&theme=dark)
-## Hello. I am Harold
+## Hello! I play Minecraft.
 
-## Check out:
-* [wordPractice](https://github.com/wordPractice-Bot), a typing practice discord bot, worked on by myself and my friend, [Principle](https://github.com/principle105) ([DISCORD](https://discord.gg/wordpractice))
 
 
 <!--
